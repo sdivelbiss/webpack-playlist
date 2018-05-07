@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sdivelbiss/webpack-playlist#readme",
   "devDependencies": {
-    "webpack": "^4.8.0"
+    "webpack": "^4.8.0",
+    "webpack-cli": "^2.1.3"
   }
 }
